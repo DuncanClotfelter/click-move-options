@@ -21,7 +21,7 @@ import java.util.List;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Red Clicks Only Test"
+	name = "Click Move Options"
 )
 public class ClickMoveOptionsPlugin extends Plugin
 {
